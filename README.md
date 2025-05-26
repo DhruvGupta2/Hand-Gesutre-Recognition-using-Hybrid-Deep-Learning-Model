@@ -35,5 +35,5 @@ Input Image (224x224)
 └──> Concatenation → BiLSTM (bidirectional)
      ↓
      Fully Connected Layer → Softmax (18 classes)
-![WhatsApp Image 2025-05-26 at 07 56 48_0ada890d](https://github.com/user-attachments/assets/8f1dc323-a116-4716-af53-ffd2ed86053d)
+
 
