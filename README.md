@@ -7,6 +7,20 @@ Built with **PyTorch** and **Hugging Face Transformers**.
 
 ---
 
+## 🚀 Overview
+
+This project leverages the strengths of transformer-based and convolutional neural networks for highly accurate hand gesture classification.
+
+**Hybrid Architecture Highlights:**
+- 🧠 **Swin Transformer** – Token-based visual representation
+- 🧠 **ResNet34** – CNN-based hierarchical spatial features
+- 🔁 **BiLSTM** – Sequential modeling of combined features
+
+**Live Website Preview:**  
+<img src="https://github.com/user-attachments/assets/e53cb191-d400-45e9-af81-134978e0c007" width="600"/>
+
+---
+
 ## 📊 Results
 
 **Classification Report:**  
@@ -21,19 +35,6 @@ Built with **PyTorch** and **Hugging Face Transformers**.
 **Loss Curve:**  
 <img src="https://github.com/user-attachments/assets/65a3768f-21f9-460d-a494-27a3d432b657" width="600"/>
 
----
-
-## 🚀 Overview
-
-This project leverages the strengths of transformer-based and convolutional neural networks for highly accurate hand gesture classification.
-
-**Hybrid Architecture Highlights:**
-- 🧠 **Swin Transformer** – Token-based visual representation
-- 🧠 **ResNet34** – CNN-based hierarchical spatial features
-- 🔁 **BiLSTM** – Sequential modeling of combined features
-
-**Live Website Preview:**  
-<img src="https://github.com/user-attachments/assets/e53cb191-d400-45e9-af81-134978e0c007" width="600"/>
 
 ---
 
