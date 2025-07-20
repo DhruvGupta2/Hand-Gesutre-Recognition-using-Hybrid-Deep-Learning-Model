@@ -51,7 +51,7 @@ This project leverages the strengths of transformer-based and convolutional neur
 ---
 
 ## 🏗️ Model Architecture
-
+---
 **Architecture Diagram:**
 <img src="https://github.com/user-attachments/assets/177f8a91-2cee-4bba-a6ff-e81df31d7459" width="700"/>
 
