@@ -1,9 +1,9 @@
-# 🖐️ Hand Gesture Recognition with Hybrid Deep Learning
+# 🖐️ Hand Gesture Recognition with Hybrid Deep Learning(Published Research Project)
 
 A hybrid deep learning approach combining **Swin Transformer**, **ResNet34**, and **BiLSTM** to recognize **18 static hand gestures** using the [HaGRID](https://github.com/hukenovs/hagrid) dataset with **98.03% accuracy**.  
 Built with **PyTorch** and **Hugging Face Transformers**.
 
-📄 This project's research paper has also gone to journals.
+📄 This project's research paper has been accepted for publication in the Journal of Statistics & Management Systems.
 
 ---
 
